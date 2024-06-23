@@ -1,1 +1,6 @@
-subtitle_report.csv
+*.csv
+*.txt
+*.srt
+**/*.csv
+**/*.txt
+**/*.srt
